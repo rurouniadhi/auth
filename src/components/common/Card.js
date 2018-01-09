@@ -15,7 +15,6 @@ const styles = {
         borderRadius: 2,
         borderColor: '#dddd',
         borderBottomWidth: 0,
-        elevation: 10,
         marginBottom: 10,
         marginLeft: 10,
         marginRight: 10,
